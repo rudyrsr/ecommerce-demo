@@ -1,7 +1,7 @@
 pipeline{
     agent none;
     environment {
-      myUsername = "RUDY"
+      myUsername = "RUDYrsr"
     }
     stages{
         stage("Test")
